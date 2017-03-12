@@ -5,7 +5,7 @@ Genre : 2D, dextérité et gestion
 
 Histoire, principe :
 
-	Un père extra terrestre avec sa fille qui ne s'endort pas car elle a peur du noir.
+	C'est l'histoire d'un père extra terrestre et de sa fille qui ne s'endort pas car elle a peur du noir.
 	Le père extra terrestre n'a pas d'histoire à raconter pour l'endormir.
 	Il illumine le ciel en faisant de nouvelle constélation grace à des pont de lumière.
 	Faisant ainsi une histoire grace à ces constélations.

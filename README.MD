@@ -5,8 +5,8 @@ Genre : 2D, dextérité et gestion
 
 Histoire, principe :
 
-	Un père extra terrestre avec sa fille qui ne s'endort pas car peur du noir.
-	Le père extra terrestre qui n'a pas d'histoire à raconter.
+	Un père extra terrestre avec sa fille qui ne s'endort pas car elle a peur du noir.
+	Le père extra terrestre n'a pas d'histoire à raconter pour l'endormir.
 	Il illumine le ciel en faisant de nouvelle constélation grace à des pont de lumière.
 	Faisant ainsi une histoire grace à ces constélations.
 	Rajout de lumière dans la nuit grace au constélation et étoile illuminée.
@@ -19,7 +19,7 @@ Gameplay :
 	Attention niveau de carburant.
 	Ramasser des cristaux pour de l'argent.
 	Acheter du carburant et des améliorations.
-	Évolution d'une constélation selon le choix d'étoile après.
+	Évolution d'une constélation selon le choix de l'étoile suivante.
 	Les évolutions d'une constélation débloque une amélioration définitive à acheter :
 		- Bouclier
 		- Stocke carburant

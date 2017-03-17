@@ -9,13 +9,23 @@
     <sound>sound\sound0</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
+    <sprites name="Menu">
+      <sprite>sprites\New</sprite>
+      <sprite>sprites\Exit</sprite>
+      <sprite>sprites\Option</sprite>
+      <sprite>sprites\Continue</sprite>
+      <sprite>sprites\Title</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
   </backgrounds>
   <paths name="paths">
-    <path>paths\path0</path>
+    <paths name="Menu">
+      <path>paths\PathTitle</path>
+      <path>paths\PathNew</path>
+      <path>paths\PathExit</path>
+    </paths>
   </paths>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
@@ -27,13 +37,19 @@
     <font>fonts\font0</font>
   </fonts>
   <objects name="objects">
-    <object>objects\object0</object>
+    <objects name="Menu">
+      <object>objects\NewObj</object>
+      <object>objects\TitleObj</object>
+      <object>objects\ExitObj</object>
+    </objects>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
   </timelines>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <rooms name="Menu">
+      <room>rooms\MainMenu</room>
+    </rooms>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

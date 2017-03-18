@@ -3,10 +3,10 @@
   <closed>0</closed>
   <precision>4</precision>
   <backroom>0</backroom>
-  <hsnap>16</hsnap>
-  <vsnap>16</vsnap>
+  <hsnap>32</hsnap>
+  <vsnap>32</vsnap>
   <points>
     <point>1888,320,100</point>
-    <point>896,320,25</point>
+    <point>896,320,35</point>
   </points>
 </path>

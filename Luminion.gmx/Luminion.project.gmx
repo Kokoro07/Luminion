@@ -10,11 +10,30 @@
   </sounds>
   <sprites name="sprites">
     <sprites name="Menu">
-      <sprite>sprites\New</sprite>
-      <sprite>sprites\Exit</sprite>
-      <sprite>sprites\Option</sprite>
-      <sprite>sprites\Continue</sprite>
       <sprite>sprites\Title</sprite>
+      <sprites name="New">
+        <sprite>sprites\New</sprite>
+        <sprite>sprites\NewPush</sprite>
+      </sprites>
+      <sprites name="Continue">
+        <sprite>sprites\Continue</sprite>
+        <sprite>sprites\ContinuePush</sprite>
+      </sprites>
+      <sprites name="Options">
+        <sprite>sprites\Option</sprite>
+        <sprite>sprites\OptionPush</sprite>
+      </sprites>
+      <sprites name="Exit">
+        <sprite>sprites\Exit</sprite>
+        <sprite>sprites\ExitPush</sprite>
+      </sprites>
+      <sprites name="ExitQuest">
+        <sprite>sprites\ExitQuest</sprite>
+        <sprite>sprites\YesQuest</sprite>
+        <sprite>sprites\YesQuestPush</sprite>
+        <sprite>sprites\NoQuest</sprite>
+        <sprite>sprites\NoQuestPush</sprite>
+      </sprites>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -24,6 +43,8 @@
     <paths name="Menu">
       <path>paths\PathTitle</path>
       <path>paths\PathNew</path>
+      <path>paths\PathContinue</path>
+      <path>paths\PathOption</path>
       <path>paths\PathExit</path>
     </paths>
   </paths>
@@ -38,9 +59,16 @@
   </fonts>
   <objects name="objects">
     <objects name="Menu">
-      <object>objects\NewObj</object>
       <object>objects\TitleObj</object>
+      <object>objects\NewObj</object>
+      <object>objects\ContinueObj</object>
+      <object>objects\OptionObj</object>
       <object>objects\ExitObj</object>
+      <objects name="ExitQuest">
+        <object>objects\ExitQuestObj</object>
+        <object>objects\YesQuestObj</object>
+        <object>objects\NoQuestObj</object>
+      </objects>
     </objects>
   </objects>
   <timelines name="timelines">

@@ -20,6 +20,6 @@
   <width>192</width>
   <height>64</height>
   <frames>
-    <frame index="0">images\Continue_0.png</frame>
+    <frame index="0">images\ExitPush_0.png</frame>
   </frames>
 </sprite>
